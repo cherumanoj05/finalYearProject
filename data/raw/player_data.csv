@@ -1,0 +1,501 @@
+ID,Player,Position,Age,Nationality,Club,MarketValue,ProfileURL
+1,Vinicius Junior,Left Winger,24,Brazil,Real Madrid,€200.00m,https://www.transfermarkt.com/vinicius-junior/profil/spieler/371998
+2,Lamine Yamal,Right Winger,17,Spain,FC Barcelona,€180.00m,https://www.transfermarkt.com/lamine-yamal/profil/spieler/937958
+3,Jude Bellingham,Attacking Midfield,21,England,Real Madrid,€180.00m,https://www.transfermarkt.com/jude-bellingham/profil/spieler/581678
+4,Erling Haaland,Centre-Forward,24,Norway,Manchester City,€180.00m,https://www.transfermarkt.com/erling-haaland/profil/spieler/418560
+5,Kylian Mbappé,Centre-Forward,26,France,Real Madrid,€170.00m,https://www.transfermarkt.com/kylian-mbappe/profil/spieler/342229
+6,Bukayo Saka,Right Winger,23,England,Arsenal FC,€150.00m,https://www.transfermarkt.com/bukayo-saka/profil/spieler/433177
+7,Florian Wirtz,Attacking Midfield,22,Germany,Bayer 04 Leverkusen,€140.00m,https://www.transfermarkt.com/florian-wirtz/profil/spieler/598577
+8,Jamal Musiala,Attacking Midfield,22,Germany,Bayern Munich,€140.00m,https://www.transfermarkt.com/jamal-musiala/profil/spieler/580195
+9,Federico Valverde,Central Midfield,26,Uruguay,Real Madrid,€130.00m,https://www.transfermarkt.com/federico-valverde/profil/spieler/369081
+10,Pedri,Central Midfield,22,Spain,FC Barcelona,€120.00m,https://www.transfermarkt.com/pedri/profil/spieler/683840
+11,Cole Palmer,Attacking Midfield,23,England,Chelsea FC,€120.00m,https://www.transfermarkt.com/cole-palmer/profil/spieler/568177
+12,Declan Rice,Central Midfield,26,England,Arsenal FC,€120.00m,https://www.transfermarkt.com/declan-rice/profil/spieler/357662
+13,Alexander Isak,Centre-Forward,25,Sweden,Newcastle United,€120.00m,https://www.transfermarkt.com/alexander-isak/profil/spieler/349066
+14,Rodri,Defensive Midfield,28,Spain,Manchester City,€110.00m,https://www.transfermarkt.com/rodri/profil/spieler/357565
+15,Michael Olise,Right Winger,23,France,Bayern Munich,€100.00m,https://www.transfermarkt.com/michael-olise/profil/spieler/566723
+16,Alexis Mac Allister,Central Midfield,26,Argentina,Liverpool FC,€100.00m,https://www.transfermarkt.com/alexis-mac-allister/profil/spieler/534033
+17,Rodrygo,Right Winger,24,Brazil,Real Madrid,€100.00m,https://www.transfermarkt.com/rodrygo/profil/spieler/412363
+18,Phil Foden,Right Winger,25,England,Manchester City,€100.00m,https://www.transfermarkt.com/phil-foden/profil/spieler/406635
+19,Lautaro Martínez,Centre-Forward,27,Argentina,Inter Milan,€95.00m,https://www.transfermarkt.com/lautaro-martinez/profil/spieler/406625
+20,Désiré Doué,Right Winger,20,France,Paris Saint-Germain,€90.00m,https://www.transfermarkt.com/desire-doue/profil/spieler/914562
+21,Moisés Caicedo,Defensive Midfield,23,Ecuador,Chelsea FC,€90.00m,https://www.transfermarkt.com/moises-caicedo/profil/spieler/687626
+22,Julián Alvarez,Centre-Forward,25,Argentina,Atlético de Madrid,€90.00m,https://www.transfermarkt.com/julian-alvarez/profil/spieler/576024
+23,Khvicha Kvaratskhelia,Left Winger,24,Georgia,Paris Saint-Germain,€90.00m,https://www.transfermarkt.com/khvicha-kvaratskhelia/profil/spieler/502670
+24,Ousmane Dembélé,Right Winger,28,France,Paris Saint-Germain,€90.00m,https://www.transfermarkt.com/ousmane-dembele/profil/spieler/288230
+25,Martin Ødegaard,Attacking Midfield,26,Norway,Arsenal FC,€85.00m,https://www.transfermarkt.com/martin-odegaard/profil/spieler/316264
+26,João Neves,Defensive Midfield,20,Portugal,Paris Saint-Germain,€80.00m,https://www.transfermarkt.com/joao-neves/profil/spieler/670681
+27,Bruno Guimarães,Defensive Midfield,27,Brazil,Newcastle United,€80.00m,https://www.transfermarkt.com/bruno-guimaraes/profil/spieler/520624
+28,William Saliba,Centre-Back,24,France,Arsenal FC,€80.00m,https://www.transfermarkt.com/william-saliba/profil/spieler/495666
+29,Vitinha,Central Midfield,25,Portugal,Paris Saint-Germain,€80.00m,https://www.transfermarkt.com/vitinha/profil/spieler/487469
+30,Dominik Szoboszlai,Attacking Midfield,24,Hungary,Liverpool FC,€80.00m,https://www.transfermarkt.com/dominik-szoboszlai/profil/spieler/451276
+31,Aurélien Tchouaméni,Defensive Midfield,25,France,Real Madrid,€80.00m,https://www.transfermarkt.com/aurelien-tchouameni/profil/spieler/413112
+32,Raphinha,Left Winger,28,Brazil,FC Barcelona,€80.00m,https://www.transfermarkt.com/raphinha/profil/spieler/411295
+33,Achraf Hakimi,Right-Back,26,Morocco,Paris Saint-Germain,€80.00m,https://www.transfermarkt.com/achraf-hakimi/profil/spieler/398073
+34,Alessandro Bastoni,Centre-Back,26,Italy,Inter Milan,€80.00m,https://www.transfermarkt.com/alessandro-bastoni/profil/spieler/315853
+35,Nicolò Barella,Central Midfield,28,Italy,Inter Milan,€80.00m,https://www.transfermarkt.com/nicolo-barella/profil/spieler/255942
+36,Hugo Ekitiké,Centre-Forward,22,France,Eintracht Frankfurt,€75.00m,https://www.transfermarkt.com/hugo-ekitike/profil/spieler/709726
+37,Enzo Fernández,Central Midfield,24,Argentina,Chelsea FC,€75.00m,https://www.transfermarkt.com/enzo-fernandez/profil/spieler/648195
+38,Ryan Gravenberch,Defensive Midfield,23,Netherlands,Liverpool FC,€75.00m,https://www.transfermarkt.com/ryan-gravenberch/profil/spieler/478573
+39,Josko Gvardiol,Left-Back,23,Croatia,Manchester City,€75.00m,https://www.transfermarkt.com/josko-gvardiol/profil/spieler/475959
+40,Omar Marmoush,Centre-Forward,26,Egypt,Manchester City,€75.00m,https://www.transfermarkt.com/omar-marmoush/profil/spieler/445939
+41,Gabriel Magalhães,Centre-Back,27,Brazil,Arsenal FC,€75.00m,https://www.transfermarkt.com/gabriel-magalhaes/profil/spieler/435338
+42,Rafael Leão,Left Winger,25,Portugal,AC Milan,€75.00m,https://www.transfermarkt.com/rafael-leao/profil/spieler/357164
+43,Viktor Gyökeres,Centre-Forward,27,Sweden,Sporting CP,€75.00m,https://www.transfermarkt.com/viktor-gyokeres/profil/spieler/325443
+44,Marcus Thuram,Centre-Forward,27,France,Inter Milan,€75.00m,https://www.transfermarkt.com/marcus-thuram/profil/spieler/318528
+45,Trent Alexander-Arnold,Right-Back,26,England,Real Madrid,€75.00m,https://www.transfermarkt.com/trent-alexander-arnold/profil/spieler/314353
+46,Harry Kane,Centre-Forward,31,England,Bayern Munich,€75.00m,https://www.transfermarkt.com/harry-kane/profil/spieler/132098
+47,Pau Cubarsí,Centre-Back,18,Spain,FC Barcelona,€70.00m,https://www.transfermarkt.com/pau-cubarsi/profil/spieler/962110
+48,Nico Williams,Left Winger,22,Spain,Athletic Bilbao,€70.00m,https://www.transfermarkt.com/nico-williams/profil/spieler/709187
+49,Bradley Barcola,Left Winger,22,France,Paris Saint-Germain,€70.00m,https://www.transfermarkt.com/bradley-barcola/profil/spieler/708265
+50,Gavi,Central Midfield,20,Spain,FC Barcelona,€70.00m,https://www.transfermarkt.com/gavi/profil/spieler/646740
+51,Eduardo Camavinga,Central Midfield,22,France,Real Madrid,€70.00m,https://www.transfermarkt.com/eduardo-camavinga/profil/spieler/640428
+52,Benjamin Sesko,Centre-Forward,22,Slovenia,RB Leipzig,€70.00m,https://www.transfermarkt.com/benjamin-sesko/profil/spieler/627442
+53,Nuno Mendes,Left-Back,22,Portugal,Paris Saint-Germain,€70.00m,https://www.transfermarkt.com/nuno-mendes/profil/spieler/616341
+54,Xavi Simons,Attacking Midfield,22,Netherlands,RB Leipzig,€70.00m,https://www.transfermarkt.com/xavi-simons/profil/spieler/566931
+55,Luis Díaz,Left Winger,28,Colombia,Liverpool FC,€70.00m,https://www.transfermarkt.com/luis-diaz/profil/spieler/480692
+56,Cody Gakpo,Left Winger,26,Netherlands,Liverpool FC,€70.00m,https://www.transfermarkt.com/cody-gakpo/profil/spieler/434675
+57,Victor Osimhen,Centre-Forward,26,Nigeria,Galatasaray,€70.00m,https://www.transfermarkt.com/victor-osimhen/profil/spieler/401923
+58,Willian Pacho,Centre-Back,23,Ecuador,Paris Saint-Germain,€65.00m,https://www.transfermarkt.com/willian-pacho/profil/spieler/661171
+59,Anthony Gordon,Left Winger,24,England,Newcastle United,€65.00m,https://www.transfermarkt.com/anthony-gordon/profil/spieler/503733
+60,Kai Havertz,Centre-Forward,25,Germany,Arsenal FC,€65.00m,https://www.transfermarkt.com/kai-havertz/profil/spieler/309400
+61,Rúben Dias,Centre-Back,28,Portugal,Manchester City,€65.00m,https://www.transfermarkt.com/ruben-dias/profil/spieler/258004
+62,Estêvão,Right Winger,18,Brazil,Sociedade Esportiva Palmeiras,€60.00m,https://www.transfermarkt.com/estevao/profil/spieler/1056993
+63,Dean Huijsen,Centre-Back,20,Spain,Real Madrid,€60.00m,https://www.transfermarkt.com/dean-huijsen/profil/spieler/890290
+64,Alejandro Balde,Left-Back,21,Spain,FC Barcelona,€60.00m,https://www.transfermarkt.com/alejandro-balde/profil/spieler/636688
+65,Oihan Sancet,Attacking Midfield,25,Spain,Athletic Bilbao,€60.00m,https://www.transfermarkt.com/oihan-sancet/profil/spieler/571020
+66,Matheus Cunha,Second Striker,26,Brazil,Wolverhampton Wanderers,€60.00m,https://www.transfermarkt.com/matheus-cunha/profil/spieler/517894
+67,Martín Zubimendi,Defensive Midfield,26,Spain,Real Sociedad,€60.00m,https://www.transfermarkt.com/martin-zubimendi/profil/spieler/423440
+68,Jules Koundé,Right-Back,26,France,FC Barcelona,€60.00m,https://www.transfermarkt.com/jules-kounde/profil/spieler/411975
+69,Ademola Lookman,Second Striker,27,Nigeria,Atalanta BC,€60.00m,https://www.transfermarkt.com/ademola-lookman/profil/spieler/406040
+70,Sandro Tonali,Central Midfield,25,Italy,Newcastle United,€60.00m,https://www.transfermarkt.com/sandro-tonali/profil/spieler/397033
+71,Ibrahima Konaté,Centre-Back,26,France,Liverpool FC,€60.00m,https://www.transfermarkt.com/ibrahima-konate/profil/spieler/357119
+72,Dani Olmo,Attacking Midfield,27,Spain,FC Barcelona,€60.00m,https://www.transfermarkt.com/dani-olmo/profil/spieler/293385
+73,Federico Dimarco,Left-Back,27,Italy,Inter Milan,€60.00m,https://www.transfermarkt.com/federico-dimarco/profil/spieler/198116
+74,Murillo,Centre-Back,22,Brazil,Nottingham Forest,€55.00m,https://www.transfermarkt.com/murillo/profil/spieler/1005649
+75,Leny Yoro,Centre-Back,19,France,Manchester United,€55.00m,https://www.transfermarkt.com/leny-yoro/profil/spieler/923831
+76,Ethan Nwaneri,Right Winger,18,England,Arsenal FC,€55.00m,https://www.transfermarkt.com/ethan-nwaneri/profil/spieler/890719
+77,Warren Zaïre-Emery,Central Midfield,19,France,Paris Saint-Germain,€55.00m,https://www.transfermarkt.com/warren-zaire-emery/profil/spieler/810092
+78,Aleksandar Pavlovic,Defensive Midfield,21,Germany,Bayern Munich,€55.00m,https://www.transfermarkt.com/aleksandar-pavlovic/profil/spieler/792380
+79,Gabriel Martinelli,Left Winger,23,Brazil,Arsenal FC,€55.00m,https://www.transfermarkt.com/gabriel-martinelli/profil/spieler/655488
+80,Levi Colwill,Centre-Back,22,England,Chelsea FC,€55.00m,https://www.transfermarkt.com/levi-colwill/profil/spieler/614258
+81,Morgan Rogers,Attacking Midfield,22,England,Aston Villa,€55.00m,https://www.transfermarkt.com/morgan-rogers/profil/spieler/503743
+82,Eberechi Eze,Attacking Midfield,26,England,Crystal Palace,€55.00m,https://www.transfermarkt.com/eberechi-eze/profil/spieler/479999
+83,Jurrien Timber,Right-Back,23,Netherlands,Arsenal FC,€55.00m,https://www.transfermarkt.com/jurrien-timber/profil/spieler/420243
+84,Bryan Mbeumo,Right Winger,25,Cameroon,Brentford FC,€55.00m,https://www.transfermarkt.com/bryan-mbeumo/profil/spieler/413039
+85,Samu Aghehowa,Centre-Forward,21,Spain,FC Porto,€50.00m,https://www.transfermarkt.com/samu-aghehowa/profil/spieler/991268
+86,Kobbie Mainoo,Central Midfield,20,England,Manchester United,€50.00m,https://www.transfermarkt.com/kobbie-mainoo/profil/spieler/820374
+87,Nicolas Jackson,Centre-Forward,23,Senegal,Chelsea FC,€50.00m,https://www.transfermarkt.com/nicolas-jackson/profil/spieler/776890
+88,Pablo Barrios,Central Midfield,21,Spain,Atlético de Madrid,€50.00m,https://www.transfermarkt.com/pablo-barrios/profil/spieler/775605
+89,Savinho,Right Winger,21,Brazil,Manchester City,€50.00m,https://www.transfermarkt.com/savinho/profil/spieler/743591
+90,Jamie Gittens,Left Winger,20,England,Borussia Dortmund,€50.00m,https://www.transfermarkt.com/jamie-gittens/profil/spieler/670882
+91,Jarrad Branthwaite,Centre-Back,22,England,Everton FC,€50.00m,https://www.transfermarkt.com/jarrad-branthwaite/profil/spieler/661053
+92,Piero Hincapié,Centre-Back,23,Ecuador,Bayer 04 Leverkusen,€50.00m,https://www.transfermarkt.com/piero-hincapie/profil/spieler/659813
+93,Fermín López,Attacking Midfield,22,Spain,FC Barcelona,€50.00m,https://www.transfermarkt.com/fermin-lopez/profil/spieler/636703
+94,João Pedro,Centre-Forward,23,Brazil,Brighton & Hove Albion,€50.00m,https://www.transfermarkt.com/joao-pedro/profil/spieler/626724
+95,Éderson,Central Midfield,25,Brazil,Atalanta BC,€50.00m,https://www.transfermarkt.com/ederson/profil/spieler/607854
+96,Micky van de Ven,Centre-Back,24,Netherlands,Tottenham Hotspur,€50.00m,https://www.transfermarkt.com/micky-van-de-ven/profil/spieler/557459
+97,Álex Baena,Left Winger,23,Spain,Villarreal CF,€50.00m,https://www.transfermarkt.com/alex-baena/profil/spieler/548111
+98,Bremer,Centre-Back,28,Brazil,Juventus FC,€50.00m,https://www.transfermarkt.com/bremer/profil/spieler/516716
+99,Pedro Neto,Right Winger,25,Portugal,Chelsea FC,€50.00m,https://www.transfermarkt.com/pedro-neto/profil/spieler/487465
+100,Jérémy Doku,Left Winger,23,Belgium,Manchester City,€50.00m,https://www.transfermarkt.com/jeremy-doku/profil/spieler/486049
+101,Amadou Onana,Defensive Midfield,23,Belgium,Aston Villa,€50.00m,https://www.transfermarkt.com/amadou-onana/profil/spieler/485706
+102,Jeremie Frimpong,Right-Back,24,Netherlands,Bayer 04 Leverkusen,€50.00m,https://www.transfermarkt.com/jeremie-frimpong/profil/spieler/484547
+103,Ronald Araujo,Centre-Back,26,Uruguay,FC Barcelona,€50.00m,https://www.transfermarkt.com/ronald-araujo/profil/spieler/480267
+104,Morten Hjulmand,Defensive Midfield,25,Denmark,Sporting CP,€50.00m,https://www.transfermarkt.com/morten-hjulmand/profil/spieler/461496
+105,Tijjani Reijnders,Central Midfield,26,Netherlands,AC Milan,€50.00m,https://www.transfermarkt.com/tijjani-reijnders/profil/spieler/460939
+106,Dejan Kulusevski,Attacking Midfield,25,Sweden,Tottenham Hotspur,€50.00m,https://www.transfermarkt.com/dejan-kulusevski/profil/spieler/431755
+107,Morgan Gibbs-White,Attacking Midfield,25,England,Nottingham Forest,€50.00m,https://www.transfermarkt.com/morgan-gibbs-white/profil/spieler/429014
+108,Alphonso Davies,Left-Back,24,Canada,Bayern Munich,€50.00m,https://www.transfermarkt.com/alphonso-davies/profil/spieler/424204
+109,Loïs Openda,Centre-Forward,25,Belgium,RB Leipzig,€50.00m,https://www.transfermarkt.com/lois-openda/profil/spieler/368887
+110,Cristian Romero,Centre-Back,27,Argentina,Tottenham Hotspur,€50.00m,https://www.transfermarkt.com/cristian-romero/profil/spieler/355915
+111,Dayot Upamecano,Centre-Back,26,France,Bayern Munich,€50.00m,https://www.transfermarkt.com/dayot-upamecano/profil/spieler/344695
+112,Christian Pulisic,Right Winger,26,United States,AC Milan,€50.00m,https://www.transfermarkt.com/christian-pulisic/profil/spieler/315779
+113,Marcus Rashford,Left Winger,27,England,Aston Villa,€50.00m,https://www.transfermarkt.com/marcus-rashford/profil/spieler/258923
+114,Bruno Fernandes,Attacking Midfield,30,Portugal,Manchester United,€50.00m,https://www.transfermarkt.com/bruno-fernandes/profil/spieler/240306
+115,Mohamed Salah,Right Winger,32,Egypt,Liverpool FC,€50.00m,https://www.transfermarkt.com/mohamed-salah/profil/spieler/148455
+116,Geovany Quenda,Left Winger,18,Portugal,Sporting CP,€45.00m,https://www.transfermarkt.com/geovany-quenda/profil/spieler/1138758
+117,Ousmane Diomande,Centre-Back,21,Cote d'Ivoire,Sporting CP,€45.00m,https://www.transfermarkt.com/ousmane-diomande/profil/spieler/974982
+118,Myles Lewis-Skelly,Left-Back,18,England,Arsenal FC,€45.00m,https://www.transfermarkt.com/myles-lewis-skelly/profil/spieler/890721
+119,Arda Güler,Right Winger,20,Türkiye,Real Madrid,€45.00m,https://www.transfermarkt.com/arda-guler/profil/spieler/861410
+120,Kenan Yıldız,Left Winger,20,Türkiye,Juventus FC,€45.00m,https://www.transfermarkt.com/kenan-yildiz/profil/spieler/845654
+121,Alejandro Garnacho,Attacking Midfield,20,Argentina,Manchester United,€45.00m,https://www.transfermarkt.com/alejandro-garnacho/profil/spieler/811779
+122,Maghnes Akliouche,Right Winger,23,France,AS Monaco,€45.00m,https://www.transfermarkt.com/maghnes-akliouche/profil/spieler/745200
+123,Adam Wharton,Defensive Midfield,21,England,Crystal Palace,€45.00m,https://www.transfermarkt.com/adam-wharton/profil/spieler/744149
+124,Milos Kerkez,Left-Back,21,Hungary,AFC Bournemouth,€45.00m,https://www.transfermarkt.com/milos-kerkez/profil/spieler/730861
+125,Rayan Cherki,Right Winger,21,France,Olympique Lyon,€45.00m,https://www.transfermarkt.com/rayan-cherki/profil/spieler/607223
+126,Mateo Retegui,Centre-Forward,26,Italy,Atalanta BC,€45.00m,https://www.transfermarkt.com/mateo-retegui/profil/spieler/554903
+127,Gonçalo Inácio,Centre-Back,23,Portugal,Sporting CP,€45.00m,https://www.transfermarkt.com/goncalo-inacio/profil/spieler/549006
+128,Darwin Núñez,Centre-Forward,25,Uruguay,Liverpool FC,€45.00m,https://www.transfermarkt.com/darwin-nunez/profil/spieler/546543
+129,Mohammed Kudus,Right Winger,24,Ghana,West Ham United,€45.00m,https://www.transfermarkt.com/mohammed-kudus/profil/spieler/543499
+130,Amad Diallo,Right Winger,22,Cote d'Ivoire,Manchester United,€45.00m,https://www.transfermarkt.com/amad-diallo/profil/spieler/536835
+131,Jonathan David,Centre-Forward,25,Canada,LOSC Lille,€45.00m,https://www.transfermarkt.com/jonathan-david/profil/spieler/533738
+132,Karim Adeyemi,Right Winger,23,Germany,Borussia Dortmund,€45.00m,https://www.transfermarkt.com/karim-adeyemi/profil/spieler/496094
+133,Manuel Ugarte,Defensive Midfield,24,Uruguay,Manchester United,€45.00m,https://www.transfermarkt.com/manuel-ugarte/profil/spieler/476701
+134,Angelo Stiller,Defensive Midfield,24,Germany,VfB Stuttgart,€45.00m,https://www.transfermarkt.com/angelo-stiller/profil/spieler/443710
+135,Curtis Jones,Central Midfield,24,England,Liverpool FC,€45.00m,https://www.transfermarkt.com/curtis-jones/profil/spieler/433188
+136,Marc Guéhi,Centre-Back,24,England,Crystal Palace,€45.00m,https://www.transfermarkt.com/marc-guehi/profil/spieler/392757
+137,Alessandro Buongiorno,Centre-Back,26,Italy,SSC Napoli,€45.00m,https://www.transfermarkt.com/alessandro-buongiorno/profil/spieler/386446
+138,Dušan Vlahović,Centre-Forward,25,Serbia,Juventus FC,€45.00m,https://www.transfermarkt.com/dusan-vlahovic/profil/spieler/357498
+139,Ben White,Right-Back,27,England,Arsenal FC,€45.00m,https://www.transfermarkt.com/ben-white/profil/spieler/335721
+140,Frenkie de Jong,Central Midfield,28,Netherlands,FC Barcelona,€45.00m,https://www.transfermarkt.com/frenkie-de-jong/profil/spieler/326330
+141,Brahim Díaz,Right Winger,25,Morocco,Real Madrid,€45.00m,https://www.transfermarkt.com/brahim-diaz/profil/spieler/314678
+142,Serhou Guirassy,Centre-Forward,29,Guinea,Borussia Dortmund,€45.00m,https://www.transfermarkt.com/serhou-guirassy/profil/spieler/270541
+143,Joshua Kimmich,Defensive Midfield,30,Germany,Bayern Munich,€45.00m,https://www.transfermarkt.com/joshua-kimmich/profil/spieler/161056
+144,Ilya Zabarnyi,Centre-Back,22,Ukraine,AFC Bournemouth,€42.00m,https://www.transfermarkt.com/ilya-zabarnyi/profil/spieler/659089
+145,Anthony Elanga,Right Winger,23,Sweden,Nottingham Forest,€42.00m,https://www.transfermarkt.com/anthony-elanga/profil/spieler/583189
+146,Sven Botman,Centre-Back,25,Netherlands,Newcastle United,€42.00m,https://www.transfermarkt.com/sven-botman/profil/spieler/361093
+147,James Maddison,Attacking Midfield,28,England,Tottenham Hotspur,€42.00m,https://www.transfermarkt.com/james-maddison/profil/spieler/294057
+148,Carlos Baleba,Defensive Midfield,21,Cameroon,Brighton & Hove Albion,€40.00m,https://www.transfermarkt.com/carlos-baleba/profil/spieler/973085
+149,Endrick,Centre-Forward,18,Brazil,Real Madrid,€40.00m,https://www.transfermarkt.com/endrick/profil/spieler/971570
+150,Rodrigo Mora,Attacking Midfield,18,Portugal,FC Porto,€40.00m,https://www.transfermarkt.com/rodrigo-mora/profil/spieler/957653
+151,Hugo Larsson,Central Midfield,20,Sweden,Eintracht Frankfurt,€40.00m,https://www.transfermarkt.com/hugo-larsson/profil/spieler/931838
+152,João Gomes,Central Midfield,24,Brazil,Wolverhampton Wanderers,€40.00m,https://www.transfermarkt.com/joao-gomes/profil/spieler/735570
+153,Rico Lewis,Right-Back,20,England,Manchester City,€40.00m,https://www.transfermarkt.com/rico-lewis/profil/spieler/701057
+154,Victor Boniface,Centre-Forward,24,Nigeria,Bayer 04 Leverkusen,€40.00m,https://www.transfermarkt.com/victor-boniface/profil/spieler/656681
+155,Roméo Lavia,Defensive Midfield,21,Belgium,Chelsea FC,€40.00m,https://www.transfermarkt.com/romeo-lavia/profil/spieler/628451
+156,Castello Lukeba,Centre-Back,22,France,RB Leipzig,€40.00m,https://www.transfermarkt.com/castello-lukeba/profil/spieler/618472
+157,Liam Delap,Centre-Forward,22,England,Chelsea FC,€40.00m,https://www.transfermarkt.com/liam-delap/profil/spieler/610849
+158,Antoine Semenyo,Left Winger,25,Ghana,AFC Bournemouth,€40.00m,https://www.transfermarkt.com/antoine-semenyo/profil/spieler/583255
+159,Destiny Udogie,Left-Back,22,Italy,Tottenham Hotspur,€40.00m,https://www.transfermarkt.com/destiny-udogie/profil/spieler/556385
+160,Gonçalo Ramos,Centre-Forward,23,Portugal,Paris Saint-Germain,€40.00m,https://www.transfermarkt.com/goncalo-ramos/profil/spieler/550550
+161,Mason Greenwood,Right Winger,23,England,Olympique Marseille,€40.00m,https://www.transfermarkt.com/mason-greenwood/profil/spieler/532826
+162,Dani Vivian,Centre-Back,25,Spain,Athletic Bilbao,€40.00m,https://www.transfermarkt.com/dani-vivian/profil/spieler/524000
+163,Kaoru Mitoma,Left Winger,28,Japan,Brighton & Hove Albion,€40.00m,https://www.transfermarkt.com/kaoru-mitoma/profil/spieler/504849
+164,Noni Madueke,Right Winger,23,England,Chelsea FC,€40.00m,https://www.transfermarkt.com/noni-madueke/profil/spieler/503987
+165,Tino Livramento,Right-Back,22,England,Newcastle United,€40.00m,https://www.transfermarkt.com/tino-livramento/profil/spieler/503981
+166,Min-jae Kim,Centre-Back,28,Korea,Bayern Munich,€40.00m,https://www.transfermarkt.com/min-jae-kim/profil/spieler/503482
+167,Conor Gallagher,Central Midfield,25,England,Atlético de Madrid,€40.00m,https://www.transfermarkt.com/conor-gallagher/profil/spieler/488362
+168,Lisandro Martínez,Centre-Back,27,Argentina,Manchester United,€40.00m,https://www.transfermarkt.com/lisandro-martinez/profil/spieler/480762
+169,Brennan Johnson,Right Winger,24,Wales,Tottenham Hotspur,€40.00m,https://www.transfermarkt.com/brennan-johnson/profil/spieler/470607
+170,Nico González,Central Midfield,23,Spain,Manchester City,€40.00m,https://www.transfermarkt.com/nico-gonzalez/profil/spieler/466805
+171,Khéphren Thuram,Central Midfield,24,France,Juventus FC,€40.00m,https://www.transfermarkt.com/khephren-thuram/profil/spieler/463618
+172,Andrea Cambiaso,Left-Back,25,Italy,Juventus FC,€40.00m,https://www.transfermarkt.com/andrea-cambiaso/profil/spieler/459658
+173,Takefusa Kubo,Right Winger,24,Japan,Real Sociedad,€40.00m,https://www.transfermarkt.com/takefusa-kubo/profil/spieler/405398
+174,Exequiel Palacios,Central Midfield,26,Argentina,Bayer 04 Leverkusen,€40.00m,https://www.transfermarkt.com/exequiel-palacios/profil/spieler/401578
+175,Éder Militão,Centre-Back,27,Brazil,Real Madrid,€40.00m,https://www.transfermarkt.com/eder-militao/profil/spieler/401530
+176,Boubacar Kamara,Defensive Midfield,25,France,Aston Villa,€40.00m,https://www.transfermarkt.com/boubacar-kamara/profil/spieler/394327
+177,Nico Schlotterbeck,Centre-Back,25,Germany,Borussia Dortmund,€40.00m,https://www.transfermarkt.com/nico-schlotterbeck/profil/spieler/388198
+178,Moise Kean,Centre-Forward,25,Italy,ACF Fiorentina,€40.00m,https://www.transfermarkt.com/moise-kean/profil/spieler/364135
+179,Teun Koopmeiners,Attacking Midfield,27,Netherlands,Juventus FC,€40.00m,https://www.transfermarkt.com/teun-koopmeiners/profil/spieler/360518
+180,Diogo Costa,Goalkeeper,25,Portugal,FC Porto,€40.00m,https://www.transfermarkt.com/diogo-costa/profil/spieler/357153
+181,Robin Le Normand,Centre-Back,28,Spain,Atlético de Madrid,€40.00m,https://www.transfermarkt.com/robin-le-normand/profil/spieler/351809
+182,Fabián Ruiz,Central Midfield,29,Spain,Paris Saint-Germain,€40.00m,https://www.transfermarkt.com/fabian-ruiz/profil/spieler/350219
+183,Diogo Jota,Centre-Forward,28,Portugal,Liverpool FC,€40.00m,https://www.transfermarkt.com/diogo-jota/profil/spieler/340950
+184,Theo Hernández,Left-Back,27,France,AC Milan,€40.00m,https://www.transfermarkt.com/theo-hernandez/profil/spieler/339808
+185,Ollie Watkins,Centre-Forward,29,England,Aston Villa,€40.00m,https://www.transfermarkt.com/ollie-watkins/profil/spieler/324358
+186,Scott McTominay,Central Midfield,28,Scotland,SSC Napoli,€40.00m,https://www.transfermarkt.com/scott-mctominay/profil/spieler/315969
+187,Gianluigi Donnarumma,Goalkeeper,26,Italy,Paris Saint-Germain,€40.00m,https://www.transfermarkt.com/gianluigi-donnarumma/profil/spieler/315858
+188,Jarrod Bowen,Right Winger,28,England,West Ham United,€40.00m,https://www.transfermarkt.com/jarrod-bowen/profil/spieler/314875
+189,David Raya,Goalkeeper,29,Spain,Arsenal FC,€40.00m,https://www.transfermarkt.com/david-raya/profil/spieler/262749
+190,Dominic Solanke,Centre-Forward,27,England,Tottenham Hotspur,€40.00m,https://www.transfermarkt.com/dominic-solanke/profil/spieler/258889
+191,Gregor Kobel,Goalkeeper,27,Switzerland,Borussia Dortmund,€40.00m,https://www.transfermarkt.com/gregor-kobel/profil/spieler/257814
+192,Archie Gray,Defensive Midfield,19,England,Tottenham Hotspur,€38.00m,https://www.transfermarkt.com/archie-gray/profil/spieler/922693
+193,Lucas Bergvall,Central Midfield,19,Sweden,Tottenham Hotspur,€38.00m,https://www.transfermarkt.com/lucas-bergvall/profil/spieler/866246
+194,Pedro Porro,Right-Back,25,Spain,Tottenham Hotspur,€38.00m,https://www.transfermarkt.com/pedro-porro/profil/spieler/553875
+195,Douglas Luiz,Central Midfield,27,Brazil,Juventus FC,€38.00m,https://www.transfermarkt.com/douglas-luiz/profil/spieler/447661
+196,Charles De Ketelaere,Attacking Midfield,24,Belgium,Atalanta BC,€38.00m,https://www.transfermarkt.com/charles-de-ketelaere/profil/spieler/435772
+197,Matthijs de Ligt,Centre-Back,25,Netherlands,Manchester United,€38.00m,https://www.transfermarkt.com/matthijs-de-ligt/profil/spieler/326031
+198,Youri Tielemans,Central Midfield,28,Belgium,Aston Villa,€38.00m,https://www.transfermarkt.com/youri-tielemans/profil/spieler/249565
+199,Bernardo Silva,Attacking Midfield,30,Portugal,Manchester City,€38.00m,https://www.transfermarkt.com/bernardo-silva/profil/spieler/241641
+200,Santiago Gimenez,Centre-Forward,24,Mexico,AC Milan,€37.00m,https://www.transfermarkt.com/santiago-gimenez/profil/spieler/552955
+201,Francisco Conceição,Right Winger,22,Portugal,Juventus FC,€36.00m,https://www.transfermarkt.com/francisco-conceicao/profil/spieler/487474
+202,Nico Paz,Attacking Midfield,20,Argentina,Como 1907,€35.00m,https://www.transfermarkt.com/nico-paz/profil/spieler/948294
+203,Jorrel Hato,Left-Back,19,Netherlands,Ajax Amsterdam,€35.00m,https://www.transfermarkt.com/jorrel-hato/profil/spieler/904802
+204,Santiago Castro,Centre-Forward,20,Argentina,Bologna FC 1909,€35.00m,https://www.transfermarkt.com/santiago-castro/profil/spieler/849520
+205,Álvaro Carreras,Left-Back,22,Spain,SL Benfica,€35.00m,https://www.transfermarkt.com/alvaro-carreras/profil/spieler/811778
+206,Mathys Tel,Centre-Forward,20,France,Tottenham Hotspur,€35.00m,https://www.transfermarkt.com/mathys-tel/profil/spieler/801734
+207,Abdukodir Khusanov,Centre-Back,21,Uzbekistan,Manchester City,€35.00m,https://www.transfermarkt.com/abdukodir-khusanov/profil/spieler/763079
+208,Andrey Santos,Central Midfield,21,Brazil,RC Strasbourg Alsace,€35.00m,https://www.transfermarkt.com/andrey-santos/profil/spieler/743600
+209,Evanilson,Centre-Forward,25,Brazil,AFC Bournemouth,€35.00m,https://www.transfermarkt.com/evanilson/profil/spieler/711337
+210,Igor Paixão,Left Winger,24,Brazil,Feyenoord Rotterdam,€35.00m,https://www.transfermarkt.com/igor-paixao/profil/spieler/653610
+211,Jhon Durán,Centre-Forward,21,Colombia,Al-Nassr FC,€35.00m,https://www.transfermarkt.com/jhon-duran/profil/spieler/649317
+212,Manu Koné,Central Midfield,24,France,AS Roma,€35.00m,https://www.transfermarkt.com/manu-kone/profil/spieler/624690
+213,Malo Gusto,Right-Back,22,France,Chelsea FC,€35.00m,https://www.transfermarkt.com/malo-gusto/profil/spieler/620322
+214,Rasmus Højlund,Centre-Forward,22,Denmark,Manchester United,€35.00m,https://www.transfermarkt.com/rasmus-hojlund/profil/spieler/610442
+215,Matheus Nunes,Central Midfield,26,Portugal,Manchester City,€35.00m,https://www.transfermarkt.com/matheus-nunes/profil/spieler/601883
+216,Rayan Aït-Nouri,Left-Back,24,Algeria,Wolverhampton Wanderers,€35.00m,https://www.transfermarkt.com/rayan-ait-nouri/profil/spieler/578391
+217,Giorgio Scalvini,Centre-Back,21,Italy,Atalanta BC,€35.00m,https://www.transfermarkt.com/giorgio-scalvini/profil/spieler/571604
+218,Enzo Millot,Attacking Midfield,22,France,VfB Stuttgart,€35.00m,https://www.transfermarkt.com/enzo-millot/profil/spieler/569366
+219,Edmond Tapsoba,Centre-Back,26,Burkina Faso,Bayer 04 Leverkusen,€35.00m,https://www.transfermarkt.com/edmond-tapsoba/profil/spieler/564545
+220,Riccardo Calafiori,Left-Back,23,Italy,Arsenal FC,€35.00m,https://www.transfermarkt.com/riccardo-calafiori/profil/spieler/502821
+221,Nikola Milenković,Centre-Back,27,Serbia,Nottingham Forest,€35.00m,https://www.transfermarkt.com/nikola-milenkovic/profil/spieler/413507
+222,Ezri Konsa,Centre-Back,27,England,Aston Villa,€35.00m,https://www.transfermarkt.com/ezri-konsa/profil/spieler/413403
+223,Francisco Trincão,Right Winger,25,Portugal,Sporting CP,€35.00m,https://www.transfermarkt.com/francisco-trincao/profil/spieler/412669
+224,Harvey Barnes,Left Winger,27,England,Newcastle United,€35.00m,https://www.transfermarkt.com/harvey-barnes/profil/spieler/398065
+225,Antonee Robinson,Left-Back,27,United States,Fulham FC,€35.00m,https://www.transfermarkt.com/antonee-robinson/profil/spieler/349701
+226,Christopher Nkunku,Centre-Forward,27,France,Chelsea FC,€35.00m,https://www.transfermarkt.com/christopher-nkunku/profil/spieler/344381
+227,Mikel Merino,Central Midfield,28,Spain,Arsenal FC,€35.00m,https://www.transfermarkt.com/mikel-merino/profil/spieler/338424
+228,Jonathan Burkardt,Centre-Forward,24,Germany,1.FSV Mainz 05,€35.00m,https://www.transfermarkt.com/jonathan-burkardt/profil/spieler/333647
+229,Joelinton,Central Midfield,28,Brazil,Newcastle United,€35.00m,https://www.transfermarkt.com/joelinton/profil/spieler/333241
+230,Justin Kluivert,Attacking Midfield,26,Netherlands,AFC Bournemouth,€35.00m,https://www.transfermarkt.com/justin-kluivert/profil/spieler/330659
+231,Vangelis Pavlidis,Centre-Forward,26,Greece,SL Benfica,€35.00m,https://www.transfermarkt.com/vangelis-pavlidis/profil/spieler/324503
+232,Marc Cucurella,Left-Back,26,Spain,Chelsea FC,€35.00m,https://www.transfermarkt.com/marc-cucurella/profil/spieler/284857
+233,Marquinhos,Centre-Back,31,Brazil,Paris Saint-Germain,€35.00m,https://www.transfermarkt.com/marquinhos/profil/spieler/181767
+234,Hakan Çalhanoğlu,Defensive Midfield,31,Türkiye,Inter Milan,€35.00m,https://www.transfermarkt.com/hakan-calhanoglu/profil/spieler/126414
+235,Alan Varela,Defensive Midfield,23,Argentina,FC Porto,€32.00m,https://www.transfermarkt.com/alan-varela/profil/spieler/756990
+236,Mohamed Amoura,Centre-Forward,25,Algeria,VfL Wolfsburg,€32.00m,https://www.transfermarkt.com/mohamed-amoura/profil/spieler/746910
+237,Lewis Hall,Left-Back,20,England,Newcastle United,€32.00m,https://www.transfermarkt.com/lewis-hall/profil/spieler/670858
+238,António Silva,Centre-Back,21,Portugal,SL Benfica,€32.00m,https://www.transfermarkt.com/antonio-silva/profil/spieler/650568
+239,Georgiy Sudakov,Attacking Midfield,22,Ukraine,Shakhtar Donetsk,€32.00m,https://www.transfermarkt.com/georgiy-sudakov/profil/spieler/623325
+240,Jan Paul van Hecke,Centre-Back,24,Netherlands,Brighton & Hove Albion,€32.00m,https://www.transfermarkt.com/jan-paul-van-hecke/profil/spieler/576314
+241,Pape Matar Sarr,Central Midfield,22,Senegal,Tottenham Hotspur,€32.00m,https://www.transfermarkt.com/pape-matar-sarr/profil/spieler/568693
+242,Elliot Anderson,Central Midfield,22,England,Nottingham Forest,€32.00m,https://www.transfermarkt.com/elliot-anderson/profil/spieler/567576
+243,Georginio Rutter,Centre-Forward,23,France,Brighton & Hove Albion,€32.00m,https://www.transfermarkt.com/georginio-rutter/profil/spieler/538977
+244,Tomás Araújo,Centre-Back,23,Portugal,SL Benfica,€32.00m,https://www.transfermarkt.com/tomas-araujo/profil/spieler/504087
+245,Jacob Ramsey,Left Midfield,24,England,Aston Villa,€32.00m,https://www.transfermarkt.com/jacob-ramsey/profil/spieler/503749
+246,Josip Stanisic,Right-Back,25,Croatia,Bayern Munich,€32.00m,https://www.transfermarkt.com/josip-stanisic/profil/spieler/483046
+247,Malik Tillman,Attacking Midfield,23,United States,PSV Eindhoven,€32.00m,https://www.transfermarkt.com/malik-tillman/profil/spieler/467437
+248,Mattéo Guendouzi,Central Midfield,26,France,SS Lazio,€32.00m,https://www.transfermarkt.com/matteo-guendouzi/profil/spieler/465830
+249,Pau Torres,Centre-Back,28,Spain,Aston Villa,€32.00m,https://www.transfermarkt.com/pau-torres/profil/spieler/399776
+250,Davide Frattesi,Central Midfield,25,Italy,Inter Milan,€32.00m,https://www.transfermarkt.com/davide-frattesi/profil/spieler/394300
+251,Yoane Wissa,Centre-Forward,28,DR Congo,Brentford FC,€32.00m,https://www.transfermarkt.com/yoane-wissa/profil/spieler/388165
+252,Gabriel Jesus,Centre-Forward,28,Brazil,Arsenal FC,€32.00m,https://www.transfermarkt.com/gabriel-jesus/profil/spieler/363205
+253,Guglielmo Vicario,Goalkeeper,28,Italy,Tottenham Hotspur,€32.00m,https://www.transfermarkt.com/guglielmo-vicario/profil/spieler/286047
+254,Leroy Sané,Right Winger,29,Germany,Bayern Munich,€32.00m,https://www.transfermarkt.com/leroy-sane/profil/spieler/192565
+255,Franco Mastantuono,Right Winger,17,Argentina,CA River Plate,€30.00m,https://www.transfermarkt.com/franco-mastantuono/profil/spieler/1057316
+256,Yankuba Minteh,Right Winger,20,The Gambia,Brighton & Hove Albion,€30.00m,https://www.transfermarkt.com/yankuba-minteh/profil/spieler/1012534
+257,Vitor Reis,Centre-Back,19,Brazil,Manchester City,€30.00m,https://www.transfermarkt.com/vitor-reis/profil/spieler/1005575
+258,Raúl Asencio,Centre-Back,22,Spain,Real Madrid,€30.00m,https://www.transfermarkt.com/raul-asencio/profil/spieler/935245
+259,Tom Bischof,Central Midfield,19,Germany,TSG 1899 Hoffenheim,€30.00m,https://www.transfermarkt.com/tom-bischof/profil/spieler/822959
+260,Malick Fofana,Left Winger,20,Belgium,Olympique Lyon,€30.00m,https://www.transfermarkt.com/malick-fofana/profil/spieler/743386
+261,Loïc Badé,Centre-Back,25,France,Sevilla FC,€30.00m,https://www.transfermarkt.com/loic-bade/profil/spieler/730581
+262,Cristhian Mosquera,Centre-Back,20,Spain,Valencia CF,€30.00m,https://www.transfermarkt.com/cristhian-mosquera/profil/spieler/646750
+263,Marc Casadó,Defensive Midfield,21,Spain,FC Barcelona,€30.00m,https://www.transfermarkt.com/marc-casado/profil/spieler/636695
+264,Conor Bradley,Right-Back,21,Northern Ireland,Liverpool FC,€30.00m,https://www.transfermarkt.com/conor-bradley/profil/spieler/624258
+265,Youssouf Fofana,Defensive Midfield,26,France,AC Milan,€30.00m,https://www.transfermarkt.com/youssouf-fofana/profil/spieler/569598
+266,Yéremy Pino,Right Winger,22,Spain,Villarreal CF,€30.00m,https://www.transfermarkt.com/yeremy-pino/profil/spieler/568157
+267,Harvey Elliott,Attacking Midfield,22,England,Liverpool FC,€30.00m,https://www.transfermarkt.com/harvey-elliott/profil/spieler/565822
+268,Mika Biereth,Centre-Forward,22,Denmark,AS Monaco,€30.00m,https://www.transfermarkt.com/mika-biereth/profil/spieler/565821
+269,Johan Bakayoko,Right Winger,22,Belgium,PSV Eindhoven,€30.00m,https://www.transfermarkt.com/johan-bakayoko/profil/spieler/565424
+270,Bart Verbruggen,Goalkeeper,22,Netherlands,Brighton & Hove Albion,€30.00m,https://www.transfermarkt.com/bart-verbruggen/profil/spieler/565093
+271,Zeno Debast,Centre-Back,21,Belgium,Sporting CP,€30.00m,https://www.transfermarkt.com/zeno-debast/profil/spieler/548193
+272,Isak Hien,Centre-Back,26,Sweden,Atalanta BC,€30.00m,https://www.transfermarkt.com/isak-hien/profil/spieler/503075
+273,Giorgi Mamardashvili,Goalkeeper,24,Georgia,Valencia CF,€30.00m,https://www.transfermarkt.com/giorgi-mamardashvili/profil/spieler/502676
+274,Randal Kolo Muani,Centre-Forward,26,France,Juventus FC,€30.00m,https://www.transfermarkt.com/randal-kolo-muani/profil/spieler/487969
+275,Kevin Schade,Left Winger,23,Germany,Brentford FC,€30.00m,https://www.transfermarkt.com/kevin-schade/profil/spieler/473050
+276,Reece James,Right-Back,25,England,Chelsea FC,€30.00m,https://www.transfermarkt.com/reece-james/profil/spieler/472423
+277,David Neres,Right Winger,28,Brazil,SSC Napoli,€30.00m,https://www.transfermarkt.com/david-neres/profil/spieler/469822
+278,Samuele Ricci,Defensive Midfield,23,Italy,Torino FC,€30.00m,https://www.transfermarkt.com/samuele-ricci/profil/spieler/467992
+279,Lucas Chevalier,Goalkeeper,23,France,LOSC Lille,€30.00m,https://www.transfermarkt.com/lucas-chevalier/profil/spieler/463600
+280,Nick Woltemade,Second Striker,23,Germany,VfB Stuttgart,€30.00m,https://www.transfermarkt.com/nick-woltemade/profil/spieler/455661
+281,Orkun Kökçü,Central Midfield,24,Türkiye,SL Benfica,€30.00m,https://www.transfermarkt.com/orkun-kokcu/profil/spieler/454567
+282,Yann Bisseck,Centre-Back,24,Germany,Inter Milan,€30.00m,https://www.transfermarkt.com/yann-bisseck/profil/spieler/441986
+283,Joshua Zirkzee,Centre-Forward,24,Netherlands,Manchester United,€30.00m,https://www.transfermarkt.com/joshua-zirkzee/profil/spieler/435648
+284,Jørgen Strand Larsen,Centre-Forward,25,Norway,Wolverhampton Wanderers,€30.00m,https://www.transfermarkt.com/jorgen-strand-larsen/profil/spieler/429983
+285,Pedro Gonçalves,Left Winger,26,Portugal,Sporting CP,€30.00m,https://www.transfermarkt.com/pedro-goncalves/profil/spieler/426620
+286,Quinten Timber,Central Midfield,23,Netherlands,Feyenoord Rotterdam,€30.00m,https://www.transfermarkt.com/quinten-timber/profil/spieler/420213
+287,Jean-Philippe Mateta,Centre-Forward,27,France,Crystal Palace,€30.00m,https://www.transfermarkt.com/jean-philippe-mateta/profil/spieler/420002
+288,Amine Gouiri,Centre-Forward,25,Algeria,Olympique Marseille,€30.00m,https://www.transfermarkt.com/amine-gouiri/profil/spieler/418659
+289,Dávid Hancko,Centre-Back,27,Slovakia,Feyenoord Rotterdam,€30.00m,https://www.transfermarkt.com/david-hancko/profil/spieler/404418
+290,Moussa Diaby,Right Winger,25,France,Al-Ittihad Club,€30.00m,https://www.transfermarkt.com/moussa-diaby/profil/spieler/395516
+291,Emile Smith Rowe,Attacking Midfield,24,England,Fulham FC,€30.00m,https://www.transfermarkt.com/emile-smith-rowe/profil/spieler/392765
+292,Diogo Dalot,Right-Back,26,Portugal,Manchester United,€30.00m,https://www.transfermarkt.com/diogo-dalot/profil/spieler/357147
+293,Rodrigo Bentancur,Defensive Midfield,27,Uruguay,Tottenham Hotspur,€30.00m,https://www.transfermarkt.com/rodrigo-bentancur/profil/spieler/354362
+294,Benjamin Pavard,Centre-Back,29,France,Inter Milan,€30.00m,https://www.transfermarkt.com/benjamin-pavard/profil/spieler/353366
+295,Mikel Oyarzabal,Centre-Forward,28,Spain,Real Sociedad,€30.00m,https://www.transfermarkt.com/mikel-oyarzabal/profil/spieler/351478
+296,Pervis Estupiñán,Left-Back,27,Ecuador,Brighton & Hove Albion,€30.00m,https://www.transfermarkt.com/pervis-estupinan/profil/spieler/349599
+297,Artem Dovbyk,Centre-Forward,27,Ukraine,AS Roma,€30.00m,https://www.transfermarkt.com/artem-dovbyk/profil/spieler/343537
+298,Denis Zakaria,Defensive Midfield,28,Switzerland,AS Monaco,€30.00m,https://www.transfermarkt.com/denis-zakaria/profil/spieler/334526
+299,João Palhinha,Defensive Midfield,29,Portugal,Bayern Munich,€30.00m,https://www.transfermarkt.com/joao-palhinha/profil/spieler/257455
+300,Kingsley Coman,Left Winger,28,France,Bayern Munich,€30.00m,https://www.transfermarkt.com/kingsley-coman/profil/spieler/243714
+301,Jonathan Tah,Centre-Back,29,Germany,Bayer 04 Leverkusen,€30.00m,https://www.transfermarkt.com/jonathan-tah/profil/spieler/196357
+302,Alejandro Grimaldo,Left-Back,29,Spain,Bayer 04 Leverkusen,€30.00m,https://www.transfermarkt.com/alejandro-grimaldo/profil/spieler/193082
+303,Ayyoub Bouaddi,Central Midfield,17,France,LOSC Lille,€28.00m,https://www.transfermarkt.com/ayyoub-bouaddi/profil/spieler/1097139
+304,Antonio Nusa,Left Winger,20,Norway,RB Leipzig,€28.00m,https://www.transfermarkt.com/antonio-nusa/profil/spieler/894914
+305,Dango Ouattara,Left Winger,23,Burkina Faso,AFC Bournemouth,€28.00m,https://www.transfermarkt.com/dango-ouattara/profil/spieler/823231
+306,Eliesse Ben Seghir,Left Winger,20,Morocco,AS Monaco,€28.00m,https://www.transfermarkt.com/eliesse-ben-seghir/profil/spieler/810895
+307,Danilo,Defensive Midfield,24,Brazil,Nottingham Forest,€28.00m,https://www.transfermarkt.com/danilo/profil/spieler/808509
+308,André,Defensive Midfield,23,Brazil,Wolverhampton Wanderers,€28.00m,https://www.transfermarkt.com/andre/profil/spieler/800176
+309,Simon Adingra,Left Winger,23,Cote d'Ivoire,Brighton & Hove Albion,€28.00m,https://www.transfermarkt.com/simon-adingra/profil/spieler/658536
+310,Bilal El Khannouss,Attacking Midfield,21,Morocco,Leicester City,€28.00m,https://www.transfermarkt.com/bilal-el-khannouss/profil/spieler/654982
+311,Mario Gila,Centre-Back,24,Spain,SS Lazio,€28.00m,https://www.transfermarkt.com/mario-gila/profil/spieler/618341
+312,Toti,Centre-Back,26,Portugal,Wolverhampton Wanderers,€28.00m,https://www.transfermarkt.com/toti/profil/spieler/606718
+313,Mikkel Damsgaard,Attacking Midfield,24,Denmark,Brentford FC,€28.00m,https://www.transfermarkt.com/mikkel-damsgaard/profil/spieler/540941
+314,Anatoliy Trubin,Goalkeeper,23,Ukraine,SL Benfica,€28.00m,https://www.transfermarkt.com/anatoliy-trubin/profil/spieler/537844
+315,Nicolò Rovella,Defensive Midfield,23,Italy,SS Lazio,€28.00m,https://www.transfermarkt.com/nicolo-rovella/profil/spieler/525704
+316,Nico González,Right Winger,27,Argentina,Juventus FC,€28.00m,https://www.transfermarkt.com/nico-gonzalez/profil/spieler/486031
+317,Ian Maatsen,Left-Back,23,Netherlands,Aston Villa,€28.00m,https://www.transfermarkt.com/ian-maatsen/profil/spieler/485585
+318,Kenneth Taylor,Central Midfield,23,Netherlands,Ajax Amsterdam,€28.00m,https://www.transfermarkt.com/kenneth-taylor/profil/spieler/470394
+319,Nathan Collins,Centre-Back,24,Ireland,Brentford FC,€28.00m,https://www.transfermarkt.com/nathan-collins/profil/spieler/469050
+320,Bafodé Diakité,Centre-Back,24,France,LOSC Lille,€28.00m,https://www.transfermarkt.com/bafode-diakite/profil/spieler/463605
+321,Lucas Paquetá,Attacking Midfield,27,Brazil,West Ham United,€28.00m,https://www.transfermarkt.com/lucas-paqueta/profil/spieler/444523
+322,Jakub Kiwior,Centre-Back,25,Poland,Arsenal FC,€28.00m,https://www.transfermarkt.com/jakub-kiwior/profil/spieler/425918
+323,Felix Nmecha,Central Midfield,24,Germany,Borussia Dortmund,€28.00m,https://www.transfermarkt.com/felix-nmecha/profil/spieler/406640
+324,Vitaliy Mykolenko,Left-Back,26,Ukraine,Everton FC,€28.00m,https://www.transfermarkt.com/vitaliy-mykolenko/profil/spieler/404842
+325,Jadon Sancho,Left Winger,25,England,Chelsea FC,€28.00m,https://www.transfermarkt.com/jadon-sancho/profil/spieler/401173
+326,Ferran Torres,Centre-Forward,25,Spain,FC Barcelona,€28.00m,https://www.transfermarkt.com/ferran-torres/profil/spieler/398184
+327,Leon Bailey,Right Winger,27,Jamaica,Aston Villa,€28.00m,https://www.transfermarkt.com/leon-bailey/profil/spieler/387626
+328,Mason Mount,Attacking Midfield,26,England,Manchester United,€28.00m,https://www.transfermarkt.com/mason-mount/profil/spieler/346483
+329,Denzel Dumfries,Right-Back,29,Netherlands,Inter Milan,€28.00m,https://www.transfermarkt.com/denzel-dumfries/profil/spieler/321528
+330,Brais Méndez,Attacking Midfield,28,Spain,Real Sociedad,€28.00m,https://www.transfermarkt.com/brais-mendez/profil/spieler/309110
+331,Manuel Akanji,Centre-Back,29,Switzerland,Manchester City,€28.00m,https://www.transfermarkt.com/manuel-akanji/profil/spieler/284730
+332,Marcos Llorente,Right Midfield,30,Spain,Atlético de Madrid,€28.00m,https://www.transfermarkt.com/marcos-llorente/profil/spieler/282411
+333,Manuel Locatelli,Defensive Midfield,27,Italy,Juventus FC,€28.00m,https://www.transfermarkt.com/manuel-locatelli/profil/spieler/265088
+334,Unai Simón,Goalkeeper,27,Spain,Athletic Bilbao,€28.00m,https://www.transfermarkt.com/unai-simon/profil/spieler/262396
+335,Alex Iwobi,Attacking Midfield,29,Nigeria,Fulham FC,€28.00m,https://www.transfermarkt.com/alex-iwobi/profil/spieler/242631
+336,Jack Grealish,Left Winger,29,England,Manchester City,€28.00m,https://www.transfermarkt.com/jack-grealish/profil/spieler/203460
+337,Joel Ordóñez,Centre-Back,21,Ecuador,Club Brugge KV,€27.00m,https://www.transfermarkt.com/joel-ordonez/profil/spieler/893661
+338,Ismael Saibari,Central Midfield,24,Morocco,PSV Eindhoven,€27.00m,https://www.transfermarkt.com/ismael-saibari/profil/spieler/702869
+339,Frank Anguissa,Central Midfield,29,Cameroon,SSC Napoli,€27.00m,https://www.transfermarkt.com/frank-anguissa/profil/spieler/354361
+340,Joachim Andersen,Centre-Back,29,Denmark,Fulham FC,€27.00m,https://www.transfermarkt.com/joachim-andersen/profil/spieler/260827
+341,Patrik Schick,Centre-Forward,29,Czech Republic,Bayer 04 Leverkusen,€27.00m,https://www.transfermarkt.com/patrik-schick/profil/spieler/242086
+342,Pierre Kalulu,Centre-Back,25,France,Juventus FC,€26.00m,https://www.transfermarkt.com/pierre-kalulu/profil/spieler/585949
+343,Assane Diao,Right Winger,19,Senegal,Como 1907,€25.00m,https://www.transfermarkt.com/assane-diao/profil/spieler/1061282
+344,Francesco Pio Esposito,Centre-Forward,19,Italy,Spezia Calcio,€25.00m,https://www.transfermarkt.com/francesco-pio-esposito/profil/spieler/930781
+345,Patrick Dorgu,Left Midfield,20,Denmark,Manchester United,€25.00m,https://www.transfermarkt.com/patrick-dorgu/profil/spieler/926952
+346,Lucas Beraldo,Centre-Back,21,Brazil,Paris Saint-Germain,€25.00m,https://www.transfermarkt.com/lucas-beraldo/profil/spieler/872171
+347,Tyler Dibling,Right Winger,19,England,Southampton FC,€25.00m,https://www.transfermarkt.com/tyler-dibling/profil/spieler/866655
+348,Luiz Henrique,Right Winger,24,Brazil,Zenit St. Petersburg,€25.00m,https://www.transfermarkt.com/luiz-henrique/profil/spieler/800175
+349,Pietro Comuzzo,Centre-Back,20,Italy,ACF Fiorentina,€25.00m,https://www.transfermarkt.com/pietro-comuzzo/profil/spieler/746712
+350,Giuliano Simeone,Right Winger,22,Argentina,Atlético de Madrid,€25.00m,https://www.transfermarkt.com/giuliano-simeone/profil/spieler/742201
+351,Alberto Moleiro,Left Winger,21,Spain,UD Las Palmas,€25.00m,https://www.transfermarkt.com/alberto-moleiro/profil/spieler/733576
+352,Tyrick Mitchell,Left-Back,25,England,Crystal Palace,€25.00m,https://www.transfermarkt.com/tyrick-mitchell/profil/spieler/730893
+353,Brajan Gruda,Right Winger,21,Germany,Brighton & Hove Albion,€25.00m,https://www.transfermarkt.com/brajan-gruda/profil/spieler/700106
+354,Samuel Lino,Left Winger,25,Brazil,Atlético de Madrid,€25.00m,https://www.transfermarkt.com/samuel-lino/profil/spieler/694928
+355,Luis Henrique,Right Winger,23,Brazil,Olympique Marseille,€25.00m,https://www.transfermarkt.com/luis-henrique/profil/spieler/691316
+356,Konstantinos Koulierakis,Centre-Back,21,Greece,VfL Wolfsburg,€25.00m,https://www.transfermarkt.com/konstantinos-koulierakis/profil/spieler/669380
+357,Oscar Bobb,Right Winger,21,Norway,Manchester City,€25.00m,https://www.transfermarkt.com/oscar-bobb/profil/spieler/661207
+358,Wilfried Singo,Centre-Back,24,Cote d'Ivoire,AS Monaco,€25.00m,https://www.transfermarkt.com/wilfried-singo/profil/spieler/648779
+359,Evan Ferguson,Centre-Forward,20,Ireland,West Ham United,€25.00m,https://www.transfermarkt.com/evan-ferguson/profil/spieler/648046
+360,Odilon Kossounou,Centre-Back,24,Cote d'Ivoire,Atalanta BC,€25.00m,https://www.transfermarkt.com/odilon-kossounou/profil/spieler/644771
+361,Ardon Jashari,Defensive Midfield,22,Switzerland,Club Brugge KV,€25.00m,https://www.transfermarkt.com/ardon-jashari/profil/spieler/608172
+362,Jean-Clair Todibo,Centre-Back,25,France,West Ham United,€25.00m,https://www.transfermarkt.com/jean-clair-todibo/profil/spieler/605184
+363,Dwight McNeil,Left Winger,25,England,Everton FC,€25.00m,https://www.transfermarkt.com/dwight-mcneil/profil/spieler/584769
+364,Maximilian Beier,Centre-Forward,22,Germany,Borussia Dortmund,€25.00m,https://www.transfermarkt.com/maximilian-beier/profil/spieler/578392
+365,Thiago Almada,Attacking Midfield,24,Argentina,Olympique Lyon,€25.00m,https://www.transfermarkt.com/thiago-almada/profil/spieler/576028
+366,Radu Drăgușin,Centre-Back,23,Romania,Tottenham Hotspur,€25.00m,https://www.transfermarkt.com/radu-dragusin/profil/spieler/568559
+367,Emanuel Emegha,Centre-Forward,22,Netherlands,RC Strasbourg Alsace,€25.00m,https://www.transfermarkt.com/emanuel-emegha/profil/spieler/559328
+368,Kang-in Lee,Right Winger,24,Korea,Paris Saint-Germain,€25.00m,https://www.transfermarkt.com/kang-in-lee/profil/spieler/557149
+369,Cheick Doucouré,Defensive Midfield,25,Mali,Crystal Palace,€25.00m,https://www.transfermarkt.com/cheick-doucoure/profil/spieler/543387
+370,Dilane Bakwa,Right Winger,22,France,RC Strasbourg Alsace,€25.00m,https://www.transfermarkt.com/dilane-bakwa/profil/spieler/540664
+371,Nuno Tavares,Left-Back,25,Portugal,SS Lazio,€25.00m,https://www.transfermarkt.com/nuno-tavares/profil/spieler/535955
+372,Miguel Gutiérrez,Left-Back,23,Spain,Girona FC,€25.00m,https://www.transfermarkt.com/miguel-gutierrez/profil/spieler/525299
+373,Maximilian Kilman,Centre-Back,28,England,West Ham United,€25.00m,https://www.transfermarkt.com/maximilian-kilman/profil/spieler/525247
+374,Taty Castellanos,Centre-Forward,26,Argentina,SS Lazio,€25.00m,https://www.transfermarkt.com/taty-castellanos/profil/spieler/522784
+375,Eduard Spertsyan,Attacking Midfield,25,Armenia,FC Krasnodar,€25.00m,https://www.transfermarkt.com/eduard-spertsyan/profil/spieler/515744
+376,Federico Gatti,Centre-Back,26,Italy,Juventus FC,€25.00m,https://www.transfermarkt.com/federico-gatti/profil/spieler/509022
+377,Evann Guessand,Centre-Forward,23,Cote d'Ivoire,OGC Nice,€25.00m,https://www.transfermarkt.com/evann-guessand/profil/spieler/500689
+378,Edon Zhegrova,Right Winger,26,Kosovo,LOSC Lille,€25.00m,https://www.transfermarkt.com/edon-zhegrova/profil/spieler/496857
+379,Daniel Muñoz,Right-Back,29,Colombia,Crystal Palace,€25.00m,https://www.transfermarkt.com/daniel-munoz/profil/spieler/493003
+380,Wesley Fofana,Centre-Back,24,France,Chelsea FC,€25.00m,https://www.transfermarkt.com/wesley-fofana/profil/spieler/475411
+381,Facundo Medina,Centre-Back,26,Argentina,RC Lens,€25.00m,https://www.transfermarkt.com/facundo-medina/profil/spieler/474800
+382,João Félix,Second Striker,25,Portugal,AC Milan,€25.00m,https://www.transfermarkt.com/joao-felix/profil/spieler/462250
+383,Calvin Bassey,Centre-Back,25,Nigeria,Fulham FC,€25.00m,https://www.transfermarkt.com/calvin-bassey/profil/spieler/461883
+384,Marco Carnesecchi,Goalkeeper,24,Italy,Atalanta BC,€25.00m,https://www.transfermarkt.com/marco-carnesecchi/profil/spieler/459763
+385,Maxence Lacroix,Centre-Back,25,France,Crystal Palace,€25.00m,https://www.transfermarkt.com/maxence-lacroix/profil/spieler/434224
+386,Sam Beukema,Centre-Back,26,Netherlands,Bologna FC 1909,€25.00m,https://www.transfermarkt.com/sam-beukema/profil/spieler/433984
+387,Matty Cash,Right-Back,27,Poland,Aston Villa,€25.00m,https://www.transfermarkt.com/matty-cash/profil/spieler/425334
+388,Nahuel Molina,Right-Back,27,Argentina,Atlético de Madrid,€25.00m,https://www.transfermarkt.com/nahuel-molina/profil/spieler/424042
+389,Mats Wieffer,Defensive Midfield,25,Netherlands,Brighton & Hove Albion,€25.00m,https://www.transfermarkt.com/mats-wieffer/profil/spieler/415381
+390,Yves Bissouma,Defensive Midfield,28,Mali,Tottenham Hotspur,€25.00m,https://www.transfermarkt.com/yves-bissouma/profil/spieler/410425
+391,Ismaïla Sarr,Attacking Midfield,27,Senegal,Crystal Palace,€25.00m,https://www.transfermarkt.com/ismaila-sarr/profil/spieler/410225
+392,Joey Veerman,Central Midfield,26,Netherlands,PSV Eindhoven,€25.00m,https://www.transfermarkt.com/joey-veerman/profil/spieler/408574
+393,Edson Álvarez,Defensive Midfield,27,Mexico,West Ham United,€25.00m,https://www.transfermarkt.com/edson-alvarez/profil/spieler/401356
+394,Callum Hudson-Odoi,Left Winger,24,England,Nottingham Forest,€25.00m,https://www.transfermarkt.com/callum-hudson-odoi/profil/spieler/392768
+395,Evan Ndicka,Centre-Back,25,Cote d'Ivoire,AS Roma,€25.00m,https://www.transfermarkt.com/evan-ndicka/profil/spieler/371149
+396,Ferdi Kadıoğlu,Left-Back,25,Türkiye,Brighton & Hove Albion,€25.00m,https://www.transfermarkt.com/ferdi-kadioglu/profil/spieler/369316
+397,Dan Ndoye,Right Winger,24,Switzerland,Bologna FC 1909,€25.00m,https://www.transfermarkt.com/dan-ndoye/profil/spieler/365108
+398,Nayef Aguerd,Centre-Back,29,Morocco,Real Sociedad,€25.00m,https://www.transfermarkt.com/nayef-aguerd/profil/spieler/361914
+399,Ritsu Doan,Right Winger,26,Japan,SC Freiburg,€25.00m,https://www.transfermarkt.com/ritsu-doan/profil/spieler/358504
+400,Hiroki Ito,Centre-Back,26,Japan,Bayern Munich,€25.00m,https://www.transfermarkt.com/hiroki-ito/profil/spieler/353892
+401,Trevoh Chalobah,Centre-Back,25,England,Chelsea FC,€25.00m,https://www.transfermarkt.com/trevoh-chalobah/profil/spieler/346314
+402,Gerson,Central Midfield,28,Brazil,CR Flamengo,€25.00m,https://www.transfermarkt.com/gerson/profil/spieler/341705
+403,Noussair Mazraoui,Right-Back,27,Morocco,Manchester United,€25.00m,https://www.transfermarkt.com/noussair-mazraoui/profil/spieler/340456
+404,Noa Lang,Left Winger,25,Netherlands,PSV Eindhoven,€25.00m,https://www.transfermarkt.com/noa-lang/profil/spieler/339332
+405,Sander Berge,Defensive Midfield,27,Norway,Fulham FC,€25.00m,https://www.transfermarkt.com/sander-berge/profil/spieler/333014
+406,Donyell Malen,Right Winger,26,Netherlands,Aston Villa,€25.00m,https://www.transfermarkt.com/donyell-malen/profil/spieler/326029
+407,Dodi Lukébakio,Right Winger,27,Belgium,Sevilla FC,€25.00m,https://www.transfermarkt.com/dodi-lukebakio/profil/spieler/303259
+408,Lucas Hernández,Left-Back,29,France,Paris Saint-Germain,€25.00m,https://www.transfermarkt.com/lucas-hernandez/profil/spieler/281963
+409,Kevin Danso,Centre-Back,26,Austria,Tottenham Hotspur,€25.00m,https://www.transfermarkt.com/kevin-danso/profil/spieler/263236
+410,Rodrigo De Paul,Central Midfield,31,Argentina,Atlético de Madrid,€25.00m,https://www.transfermarkt.com/rodrigo-de-paul/profil/spieler/255901
+411,Ivan Toney,Centre-Forward,29,England,Al-Ahli SFC,€25.00m,https://www.transfermarkt.com/ivan-toney/profil/spieler/251664
+412,Alexander Sørloth,Centre-Forward,29,Norway,Atlético de Madrid,€25.00m,https://www.transfermarkt.com/alexander-sorloth/profil/spieler/238407
+413,André Onana,Goalkeeper,29,Cameroon,Manchester United,€25.00m,https://www.transfermarkt.com/andre-onana/profil/spieler/234509
+414,Rúben Neves,Defensive Midfield,28,Portugal,Al-Hilal SFC,€25.00m,https://www.transfermarkt.com/ruben-neves/profil/spieler/225161
+415,Konrad Laimer,Right-Back,28,Austria,Bayern Munich,€25.00m,https://www.transfermarkt.com/konrad-laimer/profil/spieler/223967
+416,Álex Remiro,Goalkeeper,30,Spain,Real Sociedad,€25.00m,https://www.transfermarkt.com/alex-remiro/profil/spieler/212862
+417,Stanislav Lobotka,Defensive Midfield,30,Slovakia,SSC Napoli,€25.00m,https://www.transfermarkt.com/stanislav-lobotka/profil/spieler/192735
+418,Julian Brandt,Attacking Midfield,29,Germany,Borussia Dortmund,€25.00m,https://www.transfermarkt.com/julian-brandt/profil/spieler/187492
+419,John Stones,Centre-Back,31,England,Manchester City,€25.00m,https://www.transfermarkt.com/john-stones/profil/spieler/186590
+420,Adrien Rabiot,Central Midfield,30,France,Olympique Marseille,€25.00m,https://www.transfermarkt.com/adrien-rabiot/profil/spieler/182913
+421,Mike Maignan,Goalkeeper,29,France,AC Milan,€25.00m,https://www.transfermarkt.com/mike-maignan/profil/spieler/182906
+422,Nathan Aké,Centre-Back,30,Netherlands,Manchester City,€25.00m,https://www.transfermarkt.com/nathan-ake/profil/spieler/177476
+423,Jan Oblak,Goalkeeper,32,Slovenia,Atlético de Madrid,€25.00m,https://www.transfermarkt.com/jan-oblak/profil/spieler/121483
+424,Thibaut Courtois,Goalkeeper,33,Belgium,Real Madrid,€25.00m,https://www.transfermarkt.com/thibaut-courtois/profil/spieler/108390
+425,Jack Hinshelwood,Central Midfield,20,England,Brighton & Hove Albion,€24.00m,https://www.transfermarkt.com/jack-hinshelwood/profil/spieler/867688
+426,Conrad Harder,Centre-Forward,20,Denmark,Sporting CP,€24.00m,https://www.transfermarkt.com/conrad-harder/profil/spieler/807386
+427,Paul Nebel,Attacking Midfield,22,Germany,1.FSV Mainz 05,€24.00m,https://www.transfermarkt.com/paul-nebel/profil/spieler/503160
+428,Aaron Wan-Bissaka,Right-Back,27,DR Congo,West Ham United,€24.00m,https://www.transfermarkt.com/aaron-wan-bissaka/profil/spieler/477758
+429,Galeno,Left Winger,27,Brazil,Al-Ahli SFC,€24.00m,https://www.transfermarkt.com/galeno/profil/spieler/454121
+430,Youssef En-Nesyri,Centre-Forward,28,Morocco,Fenerbahce,€24.00m,https://www.transfermarkt.com/youssef-en-nesyri/profil/spieler/433049
+431,Lewis Ferguson,Central Midfield,25,Scotland,Bologna FC 1909,€24.00m,https://www.transfermarkt.com/lewis-ferguson/profil/spieler/428563
+432,Kerem Aktürkoğlu,Left Winger,26,Türkiye,SL Benfica,€24.00m,https://www.transfermarkt.com/kerem-akturkoglu/profil/spieler/382528
+433,Ibrahim Sangaré,Defensive Midfield,27,Cote d'Ivoire,Nottingham Forest,€24.00m,https://www.transfermarkt.com/ibrahim-sangare/profil/spieler/375885
+434,Josip Sutalo,Centre-Back,25,Croatia,Ajax Amsterdam,€24.00m,https://www.transfermarkt.com/josip-sutalo/profil/spieler/371001
+435,Arthur Theate,Centre-Back,25,Belgium,Eintracht Frankfurt,€24.00m,https://www.transfermarkt.com/arthur-theate/profil/spieler/368891
+436,Weston McKennie,Central Midfield,26,United States,Juventus FC,€24.00m,https://www.transfermarkt.com/weston-mckennie/profil/spieler/332697
+437,Gianluca Scamacca,Centre-Forward,26,Italy,Atalanta BC,€24.00m,https://www.transfermarkt.com/gianluca-scamacca/profil/spieler/315867
+438,Antonio Rüdiger,Centre-Back,32,Germany,Real Madrid,€24.00m,https://www.transfermarkt.com/antonio-rudiger/profil/spieler/86202
+439,Mohamed Simakan,Centre-Back,25,France,Al-Nassr FC,€23.00m,https://www.transfermarkt.com/mohamed-simakan/profil/spieler/666234
+440,Keane Lewis-Potter,Left-Back,24,England,Brentford FC,€23.00m,https://www.transfermarkt.com/keane-lewis-potter/profil/spieler/644401
+441,Albert Gudmundsson,Second Striker,27,Iceland,ACF Fiorentina,€23.00m,https://www.transfermarkt.com/albert-gudmundsson/profil/spieler/305947
+442,Virgil van Dijk,Centre-Back,33,Netherlands,Liverpool FC,€23.00m,https://www.transfermarkt.com/virgil-van-dijk/profil/spieler/139208
+443,Stefanos Tzimas,Centre-Forward,19,Greece,1.FC Nuremberg,€22.00m,https://www.transfermarkt.com/stefanos-tzimas/profil/spieler/950091
+444,Arthur Vermeeren,Defensive Midfield,20,Belgium,RB Leipzig,€22.00m,https://www.transfermarkt.com/arthur-vermeeren/profil/spieler/926694
+445,Lewis Miley,Central Midfield,19,England,Newcastle United,€22.00m,https://www.transfermarkt.com/lewis-miley/profil/spieler/922769
+446,Lamine Camara,Central Midfield,21,Senegal,AS Monaco,€22.00m,https://www.transfermarkt.com/lamine-camara/profil/spieler/918969
+447,Roger,Right Winger,19,Portugal,SC Braga,€22.00m,https://www.transfermarkt.com/roger/profil/spieler/906329
+448,Jobe Bellingham,Central Midfield,19,England,Sunderland AFC,€22.00m,https://www.transfermarkt.com/jobe-bellingham/profil/spieler/796297
+449,Omari Hutchinson,Attacking Midfield,21,England,Ipswich Town,€22.00m,https://www.transfermarkt.com/omari-hutchinson/profil/spieler/741238
+450,Georges Mikautadze,Centre-Forward,24,Georgia,Olympique Lyon,€22.00m,https://www.transfermarkt.com/georges-mikautadze/profil/spieler/729814
+451,Nathaniel Brown,Left-Back,21,Germany,Eintracht Frankfurt,€22.00m,https://www.transfermarkt.com/nathaniel-brown/profil/spieler/691892
+452,Matías Soulé,Right Winger,22,Argentina,AS Roma,€22.00m,https://www.transfermarkt.com/matias-soule/profil/spieler/668951
+453,Yasin Ayari,Central Midfield,21,Sweden,Brighton & Hove Albion,€22.00m,https://www.transfermarkt.com/yasin-ayari/profil/spieler/667287
+454,Julio Enciso,Attacking Midfield,21,Paraguay,Ipswich Town,€22.00m,https://www.transfermarkt.com/julio-enciso/profil/spieler/660867
+455,Elye Wahi,Centre-Forward,22,France,Eintracht Frankfurt,€22.00m,https://www.transfermarkt.com/elye-wahi/profil/spieler/659542
+456,Wilfried Gnonto,Right Winger,21,Italy,Leeds United,€22.00m,https://www.transfermarkt.com/wilfried-gnonto/profil/spieler/627626
+457,Iliman Ndiaye,Left Winger,25,Senegal,Everton FC,€22.00m,https://www.transfermarkt.com/iliman-ndiaye/profil/spieler/623570
+458,Leif Davis,Left-Back,25,England,Ipswich Town,€22.00m,https://www.transfermarkt.com/leif-davis/profil/spieler/596446
+459,Beto,Centre-Forward,27,Guinea-Bissau,Everton FC,€22.00m,https://www.transfermarkt.com/beto/profil/spieler/595809
+460,Aitor Paredes,Centre-Back,25,Spain,Athletic Bilbao,€22.00m,https://www.transfermarkt.com/aitor-paredes/profil/spieler/591916
+461,Carlos Augusto,Left-Back,26,Brazil,Inter Milan,€22.00m,https://www.transfermarkt.com/carlos-augusto/profil/spieler/585982
+462,Arnaud Kalimuendo,Centre-Forward,23,France,Stade Rennais FC,€22.00m,https://www.transfermarkt.com/arnaud-kalimuendo/profil/spieler/585959
+463,Martin Baturina,Attacking Midfield,22,Croatia,GNK Dinamo Zagreb,€22.00m,https://www.transfermarkt.com/martin-baturina/profil/spieler/580451
+464,Lorenzo Lucca,Centre-Forward,24,Italy,Udinese Calcio,€22.00m,https://www.transfermarkt.com/lorenzo-lucca/profil/spieler/572265
+465,Chrislain Matsima,Centre-Back,23,France,FC Augsburg,€22.00m,https://www.transfermarkt.com/chrislain-matsima/profil/spieler/569383
+466,James Trafford,Goalkeeper,22,England,Burnley FC,€22.00m,https://www.transfermarkt.com/james-trafford/profil/spieler/566799
+467,Gabriel Sara,Central Midfield,25,Brazil,Galatasaray,€22.00m,https://www.transfermarkt.com/gabriel-sara/profil/spieler/553469
+468,Sepp van den Berg,Centre-Back,23,Netherlands,Brentford FC,€22.00m,https://www.transfermarkt.com/sepp-van-den-berg/profil/spieler/541231
+469,Fábio Vieira,Attacking Midfield,25,Portugal,FC Porto,€22.00m,https://www.transfermarkt.com/fabio-vieira/profil/spieler/537598
+470,Pepê,Right Winger,28,Brazil,FC Porto,€22.00m,https://www.transfermarkt.com/pepe/profil/spieler/520662
+471,Yunus Musah,Central Midfield,22,United States,AC Milan,€22.00m,https://www.transfermarkt.com/yunus-musah/profil/spieler/503991
+472,Taylor Harwood-Bellis,Centre-Back,23,England,Southampton FC,€22.00m,https://www.transfermarkt.com/taylor-harwood-bellis/profil/spieler/503977
+473,Yuri Alberto,Centre-Forward,24,Brazil,Sport Club Corinthians Paulista,€22.00m,https://www.transfermarkt.com/yuri-alberto/profil/spieler/489893
+474,Crysencio Summerville,Left Winger,23,Netherlands,West Ham United,€22.00m,https://www.transfermarkt.com/crysencio-summerville/profil/spieler/474701
+475,Brian Brobbey,Centre-Forward,23,Netherlands,Ajax Amsterdam,€22.00m,https://www.transfermarkt.com/brian-brobbey/profil/spieler/473169
+476,Marcos Senesi,Centre-Back,28,Argentina,AFC Bournemouth,€22.00m,https://www.transfermarkt.com/marcos-senesi/profil/spieler/469781
+477,Benoît Badiashile,Centre-Back,24,France,Chelsea FC,€22.00m,https://www.transfermarkt.com/benoit-badiashile/profil/spieler/463603
+478,Pedro,Centre-Forward,27,Brazil,CR Flamengo,€22.00m,https://www.transfermarkt.com/pedro/profil/spieler/432895
+479,Matt O'Riley,Central Midfield,24,Denmark,Brighton & Hove Albion,€22.00m,https://www.transfermarkt.com/matt-oriley/profil/spieler/406634
+480,Dodô,Right-Back,26,Brazil,ACF Fiorentina,€22.00m,https://www.transfermarkt.com/dodo/profil/spieler/401529
+481,Axel Disasi,Right-Back,27,France,Aston Villa,€22.00m,https://www.transfermarkt.com/axel-disasi/profil/spieler/386047
+482,Raoul Bellanova,Right Midfield,25,Italy,Atalanta BC,€22.00m,https://www.transfermarkt.com/raoul-bellanova/profil/spieler/357992
+483,Florentino,Defensive Midfield,25,Portugal,SL Benfica,€22.00m,https://www.transfermarkt.com/florentino/profil/spieler/357162
+484,Jerdy Schouten,Defensive Midfield,28,Netherlands,PSV Eindhoven,€22.00m,https://www.transfermarkt.com/jerdy-schouten/profil/spieler/347900
+485,Joe Willock,Central Midfield,25,England,Newcastle United,€22.00m,https://www.transfermarkt.com/joe-willock/profil/spieler/340329
+486,Ermedin Demirovic,Centre-Forward,27,Bosnia-Herzegovina,VfB Stuttgart,€22.00m,https://www.transfermarkt.com/ermedin-demirovic/profil/spieler/335457
+487,Malcom,Attacking Midfield,28,Brazil,Al-Hilal SFC,€22.00m,https://www.transfermarkt.com/malcom/profil/spieler/323704
+488,Viktor Tsygankov,Right Winger,27,Ukraine,Girona FC,€22.00m,https://www.transfermarkt.com/viktor-tsygankov/profil/spieler/264372
+489,Ola Aina,Right-Back,28,Nigeria,Nottingham Forest,€22.00m,https://www.transfermarkt.com/ola-aina/profil/spieler/236490
+490,Serge Gnabry,Left Winger,29,Germany,Bayern Munich,€22.00m,https://www.transfermarkt.com/serge-gnabry/profil/spieler/159471
+491,Leon Goretzka,Central Midfield,30,Germany,Bayern Munich,€22.00m,https://www.transfermarkt.com/leon-goretzka/profil/spieler/153084
+492,Leandro Trossard,Left Winger,30,Belgium,Arsenal FC,€22.00m,https://www.transfermarkt.com/leandro-trossard/profil/spieler/144028
+493,Antoine Griezmann,Centre-Forward,34,France,Atlético de Madrid,€22.00m,https://www.transfermarkt.com/antoine-griezmann/profil/spieler/125781
+494,Romelu Lukaku,Centre-Forward,32,Belgium,SSC Napoli,€22.00m,https://www.transfermarkt.com/romelu-lukaku/profil/spieler/96341
+495,Facundo Buonanotte,Attacking Midfield,20,Argentina,Leicester City,€20.00m,https://www.transfermarkt.com/facundo-buonanotte/profil/spieler/983989
+496,Wesley,Right-Back,21,Brazil,CR Flamengo,€20.00m,https://www.transfermarkt.com/wesley/profil/spieler/964580
+497,Chris Rigg,Attacking Midfield,17,England,Sunderland AFC,€20.00m,https://www.transfermarkt.com/chris-rigg/profil/spieler/947411
+498,Vitor Roque,Centre-Forward,20,Brazil,Sociedade Esportiva Palmeiras,€20.00m,https://www.transfermarkt.com/vitor-roque/profil/spieler/943837
+499,Mikel Jauregizar,Central Midfield,21,Spain,Athletic Bilbao,€20.00m,https://www.transfermarkt.com/mikel-jauregizar/profil/spieler/938729
+500,Oscar Gloukh,Attacking Midfield,21,Israel,Red Bull Salzburg,€20.00m,https://www.transfermarkt.com/oscar-gloukh/profil/spieler/930571
