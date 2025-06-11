@@ -1,0 +1,4 @@
+intall below libraries to run the app
+pip intall streamlit pandas scikit-learn openpyxl unicodedata2
+
+run the command <stramlit run app.py> in your local machine.
