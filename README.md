@@ -1,4 +1,4 @@
-# ⚽ ScoutSmart – AI-Based Football Player Recommendation System
+# ⚽ AI-Based Football Player Recommendation System
 
 This project uses machine learning to analyze football player statistics and recommend the most valuable players based on your budget and preferences.
 
